@@ -24,7 +24,5 @@ I'm Tira Mihai, aka Mike4544 (or Mihai4544, depending on the social media platfo
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)<br><br>
 
 
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Mike4544&icon=2&color=11)](https://visitcount.itsvg.in)
