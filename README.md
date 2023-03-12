@@ -1,11 +1,11 @@
 # 💫 About Me:
 ## **Hey there!** 👋<br><br>
-I'm Tira Mihai, aka Mike4544 (or Mihai4544, depending on the social media platform), and I'm a Romanian high-school student 🇷🇴!<br><br>Currently I'm the sole developer of a cross-platform app for high-schools, so I have a long way to go from here!
+I'm Mihai Tira, aka Mike4544 (or Mihai4544, depending on the social media platform), and I'm a Romanian high-school student 🇷🇴!<br><br>Currently I'm the sole developer of a cross-platform app for high-schools, so I have a long way to go from here!
 <br><br>
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mihai4544_designs) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Mihai4544) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20429017)
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Mihai4544) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20429017)
 <br><br>
 
 # 💻 Tech Stack:
