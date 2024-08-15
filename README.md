@@ -1,6 +1,6 @@
 # 💫 About Me:
 ## **Hey there!** 👋<br><br>
-I'm Mihai Tira, aka Mike4544 (or Mihai4544, depending on the social media platform), and I'm a Romanian high-school student 🇷🇴!<br><br>Currently I'm the sole developer of a cross-platform app for high-schools, so I have a long way to go from here!
+I'm Mihai Tira, and I'm a Romanian University student 🇷🇴!<br><br>Currently I'm developing whatever, from high-level stuff to more low-level stuff (coming soon™)
 <br><br>
 
 
