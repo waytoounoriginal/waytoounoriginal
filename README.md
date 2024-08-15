@@ -14,9 +14,9 @@ I'm Mihai Tira, and I'm a Romanian University student 🇷🇴!<br><br>Currently
 <br><br>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mike4544&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mike4544&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mike4544&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=waytoounoriginal&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=waytoounoriginal&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=waytoounoriginal&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 <br><br>
 
