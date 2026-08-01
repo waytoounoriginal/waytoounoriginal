@@ -19,7 +19,6 @@ jobs:
           config_timezone: Europe/Bucharest
           config_display: large
           config_animations: yes
-          config_presets: "@ocean-blue"
           config_order: header, isocalendar, languages, lines, followup, topics, repositories
           base: header, community, repositories, metadata
           plugin_isocalendar: yes
