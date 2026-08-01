@@ -15,7 +15,7 @@ jobs:
       - name: Metrics
         uses: lowlighter/metrics@latest
         with:
-          template: repository
+          template: terminal
           token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
           config_timezone: Europe/Bucharest
           config_display: large
