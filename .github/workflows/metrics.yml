@@ -17,14 +17,26 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
           config_timezone: Europe/Bucharest
+          config_display: large
+          config_theme: dark
+          config_animations: yes
+          config_order: header, isocalendar, languages, habits, lines, achievements, activity, notable, repositories
           base: header, activity, community, repositories, metadata
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
+          plugin_isocalendar_duration: full-year
           plugin_languages: yes
           plugin_languages_details: percentage
+          plugin_languages_analysis_timeout: 15
           plugin_lines: yes
           plugin_habits: yes
           plugin_habits_charts: yes
           plugin_achievements: yes
           plugin_achievements_threshold: C
           plugin_notable: yes
+          plugin_activity: yes
+          plugin_activity_days: 14
+          plugin_activity_limit: 8
+          plugin_activity_filter: issue, pr, release, fork, review
+          plugin_followup: yes
+          plugin_topics: yes
+          plugin_topics_limit: 12
