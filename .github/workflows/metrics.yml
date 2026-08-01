@@ -22,8 +22,6 @@ jobs:
           config_animations: yes
           config_order: header, isocalendar, languages, lines, followup, topics, repositories
           base: header, community, repositories, metadata
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
           plugin_languages: yes
           plugin_languages_details: percentage
           plugin_languages_analysis_timeout: 15
